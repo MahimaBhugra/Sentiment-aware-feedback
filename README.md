@@ -1,3 +1,3 @@
 ## Project Pipeline
 
-![Project Pipeline](assets/ProjectPipeline_sentiment-aware-analysis)
+![Project Pipeline](assets/ProjectPipeline_sentiment-aware-analysis.jpeg)
